@@ -1,0 +1,79 @@
+{
+    "Angiogenic":
+    [
+        "Erythropoietin",
+        "Angiopoietin-2",
+        "Angiostatin",
+        "ROBO4",
+        "Angiogenin",
+        "VEGF-C",
+        "Epiregulin"
+    ],
+    "Immune: GD/DF cytokines":
+    [
+        "M-CSF"
+    ],
+    "Immune: Adaptive":
+    [
+        "TRADD",
+        "SIGIRR"
+    ],
+    "Immune chemokines & receptors":
+    [
+        "PF4 / CXCL4",
+        "MIP-1a",
+        "CXCR1 / IL-8 RA",
+        "CCR7",
+        "CXCR2 / IL-8 RB",
+        "CCR9",
+        "CTACK / CCL27",
+        "GRO-a",
+        "MIP 2",
+        "TECK/ CCL25"
+    ],
+    "Immune: interleukins & receptors":
+    [
+        "IL-17C",
+        "IL-1 ra",
+        "IL-1 F10 / IL-1HY2",
+        "IL-17D",
+        "IL-31",
+        "IL-6"
+    ],
+    "GFs & their receptors":
+    [
+        "CNTF",
+        "HB-EGF",
+        "BDNF",
+        "FGF R4",
+        "IGF-II",
+        "BMP-15",
+        "IGF-I"
+    ],
+    "Tissue Homeostasis":
+    [
+        "Lipocalin-2",
+        "uPA",
+        "NrCAM",
+        "Thrombospondin-2",
+        "Ubiquitin+1",
+        "MMP-9",
+        "Kininostatin / kininogen"
+    ],
+    "Pathways":
+    [
+        "Siglec-9",
+        "Follistatin-like 1",
+        "BMPR-IB / ALK-6",
+        "Glut2",
+        "Glypican 5",
+        "Follistatin",
+        "TMEFF1 / Tomoregulin-1",
+        "Endothelin",
+        "IL-12 R beta 1",
+        "IFN-alpha / beta R1",
+        "ICAM-1",
+        "VEGI / TNFSF15",
+        "TRAIL / TNFSF10"
+    ]
+}
